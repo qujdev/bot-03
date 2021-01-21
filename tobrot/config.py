@@ -13,9 +13,9 @@ class Config(Config):
   OWNER_ID = 1464067320
   RCLONE_CONFIG = """type = drive
 scope = drive
-token = {"access_token":"ya29.a0AfH6SMBtf7kt7rfb2zXGKD8yGgrP2387_sX5Q4I0czgqthfdSldLi4Xh6zogVwcPzch_KUGwK_Ur8FyfzcJegdWM7aQGu3ujp3Z0R4ddVpTl3XqWcGWA4S5VDqcWrcwid-4rEmE658KNMfgMM7WfxMg_BUMmxRuDHh3S8tosCF0","token_type":"Bearer","refresh_token":"1//0gxLXtEcUe5V4CgYIARAAGBASNwF-L9IrlgIaC9FAL6bLZ34Id_hccgZO9WfVm-wIgnKOQHBKfjgRYZX9_4Bb-x8ZHELqo66lmQs","expiry":"2020-12-24T15:50:19.450632145Z"}
-team_drive = 0ADgye8jT_91FUk9PVA"""
-  DESTINATION_FOLDER = ""
+token = {"access_token":"ya29.a0AfH6SMCdvunzo0DxBYAGy8bojOu4WRkmVIoJJ6Ccdry1JBn6a_H2LA9Mtc4Kq0pUZhuaAeqS_MLG-rsCVZin0b1dy3270DZw6lXPNdYO2Nq7MF0g4xv9POSVdGv5sVYG3Kd2Hco833CmkY4WWtXMjLfSWr7sS-03pH5laE4B1CQ","token_type":"Bearer","refresh_token":"1//0gvr-t3JX5MMCCgYIARAAGBASNwF-L9IrH7c02VPO7-j0ILN7CvBOp7nJ5KfNnTp6UnhIMb2dM486sIoXkHtO00Tm_4ee53KMPtA","expiry":"2021-01-21T14:02:14.505536378Z"}
+team_drive = 0AMExHmp8NzCUUk9PVA"""
+  DESTINATION_FOLDER = "movie"
   GLEECH_COMMAND = "gleech@kunixbot"
   TELEGRAM_LEECH_COMMAND_G = "tleech@kunixbot"
   PYTDL_COMMAND_G = "pytdl@nottouse"
